@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: lightShow
+  m_Name: LightShow
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -19,45 +19,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
-        outSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -5.201, y: 31.334, z: -3.159}
+        outSlope: {x: -5.201, y: 31.334, z: -3.159}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 39.161, y: 42.6, z: -20.931}
-        inSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
-        outSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
+        time: 1
+        value: {x: -5.201, y: 31.334, z: -3.159}
+        inSlope: {x: -0.1641066, y: -11.853329, z: -2.6998277}
+        outSlope: {x: -0.1641066, y: -11.853329, z: -2.6998277}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 2.15
-        value: {x: 34.798, y: -13.567, z: -5.65}
-        inSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
-        outSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
+        time: 2.0166667
+        value: {x: -0.247, y: -24.624, z: -5.437}
+        inSlope: {x: 2.5598936, y: -15.208328, z: 1.5981721}
+        outSlope: {x: 2.5598936, y: -15.208328, z: 1.5981721}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 17.268, y: 9.091, z: -8.682}
-        inSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        outSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
-        outSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
+        time: 3.0166667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.247, y: 24.624, z: 5.437}
+        outSlope: {x: 0.247, y: 24.624, z: 5.437}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -65,260 +56,43 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Spot Light
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
-        outSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 39.161, y: 42.6, z: -20.931}
-        inSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
-        outSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 34.798, y: -13.567, z: -5.65}
-        inSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
-        outSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 17.268, y: 9.091, z: -8.682}
-        inSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        outSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
-        outSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (1)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
-        outSlope: {x: -6.384194, y: 31.204838, z: -4.2135487}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 39.161, y: 42.6, z: -20.931}
-        inSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
-        outSlope: {x: -5.1456785, y: -9.546982, z: 4.7354636}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 34.798, y: -13.567, z: -5.65}
-        inSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
-        outSlope: {x: -9.360625, y: -15.575596, z: 5.561111}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 17.268, y: 9.091, z: -8.682}
-        inSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        outSlope: {x: 9.029497, y: 10.303036, z: -5.835935}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 45.758, y: 10.355, z: -16.577}
-        inSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
-        outSlope: {x: 32.87308, y: 1.4584616, z: -9.109616}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (2)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 46.63, y: -1.893, z: -33.489}
-        inSlope: {x: -6.876777, y: 32.405807, z: -2.4096792}
-        outSlope: {x: -6.876777, y: 32.405807, z: -2.4096792}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 39.524, y: 31.593, z: -35.979}
-        inSlope: {x: -4.3571935, y: -8.503214, z: 6.117846}
-        outSlope: {x: -4.3571935, y: -8.503214, z: 6.117846}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 37.472, y: -23.584, z: -19.625}
-        inSlope: {x: -8.413313, y: -14.531891, z: 7.387756}
-        outSlope: {x: -8.413313, y: -14.531891, z: 7.387756}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 19.735, y: 0.495, z: -19.471}
-        inSlope: {x: 8.021841, y: 8.796535, z: -8.022237}
-        outSlope: {x: 8.021841, y: 8.796535, z: -8.022237}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 46.63, y: -1.893, z: -33.489}
-        inSlope: {x: 31.032698, y: -2.755385, z: -16.174614}
-        outSlope: {x: 31.032698, y: -2.755385, z: -16.174614}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (3)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 40.466, y: -1.709, z: -33.222}
-        inSlope: {x: -6.867098, y: 32.7, z: -2.2519352}
-        outSlope: {x: -6.867098, y: 32.7, z: -2.2519352}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 33.37, y: 32.081, z: -35.549}
-        inSlope: {x: -4.296384, y: -9.276714, z: 5.6688075}
-        outSlope: {x: -4.296384, y: -9.276714, z: 5.6688075}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 31.443, y: -25.152, z: -20.374}
-        inSlope: {x: -8.35354, y: -15.378544, z: 7.065198}
-        outSlope: {x: -8.35354, y: -15.378544, z: 7.065198}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 13.715, y: -0.898, z: -19.734}
-        inSlope: {x: 7.942565, y: 9.780286, z: -7.511117}
-        outSlope: {x: 7.942565, y: 9.780286, z: -7.511117}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 40.466, y: -1.709, z: -33.222}
-        inSlope: {x: 30.86654, y: -0.9357693, z: -15.56308}
-        outSlope: {x: 30.86654, y: -0.9357693, z: -15.56308}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (4)
+    path: 
   m_PositionCurves:
   - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.028099978, y: 0.2519, z: -0.73340017}
-        inSlope: {x: 0.022467941, y: 0.0046356646, z: 0.064223215}
-        outSlope: {x: 0.022467941, y: 0.0046356646, z: 0.064223215}
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.4371152, y: 0.08239937, z: -0.03700419}
+        outSlope: {x: 0.4371152, y: 0.08239937, z: -0.03700419}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 0.05131685, y: 0.25669017, z: -0.6670362}
-        inSlope: {x: 0.009569363, y: -0.01046476, z: -0.02307944}
-        outSlope: {x: 0.009569363, y: -0.01046476, z: -0.02307944}
+        time: 1
+        value: {x: 0.4371152, y: 0.08239937, z: -0.03700419}
+        inSlope: {x: -0.16629127, y: 0.009075642, z: -0.07582789}
+        outSlope: {x: -0.16629127, y: 0.009075642, z: -0.07582789}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 2.15
-        value: {x: 0.047599226, y: 0.22814238, z: -0.7902962}
-        inSlope: {x: -0.008532011, y: -0.014304116, z: -0.033164717}
-        outSlope: {x: -0.008532011, y: -0.014304116, z: -0.033164717}
+        time: 2.0166667
+        value: {x: -0.3454108, y: 0.01708049, z: -0.15356663}
+        inSlope: {x: -0.21214347, y: -0.040664285, z: 0.019457523}
+        outSlope: {x: -0.21214347, y: -0.040664285, z: 0.019457523}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 0.031346373, y: 0.22454144, z: -0.7381672}
-        inSlope: {x: -0.0087403245, y: 0.014262255, z: 0.024776556}
-        outSlope: {x: -0.0087403245, y: 0.014262255, z: 0.024776556}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 0.028099978, y: 0.2519, z: -0.73340017}
-        inSlope: {x: -0.0037458409, y: 0.03156756, z: 0.005500455}
-        outSlope: {x: -0.0037458409, y: 0.03156756, z: 0.005500455}
+        time: 3.0166667
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0.3454108, y: -0.01708049, z: 0.15356663}
+        outSlope: {x: 0.3454108, y: -0.01708049, z: 0.15356663}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
@@ -326,215 +100,7 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Spot Light
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 0.08880027, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: 0.011962018, y: 0.002469536, z: 0.033602774}
-        outSlope: {x: 0.011962018, y: 0.002469536, z: 0.033602774}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 0.10116102, y: 0.25605193, z: -0.6982773}
-        inSlope: {x: 0.0049160086, y: -0.0054978495, z: -0.012284698}
-        outSlope: {x: 0.0049160086, y: -0.0054978495, z: -0.012284698}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 0.09878252, y: 0.24101575, z: -0.7632362}
-        inSlope: {x: -0.0046691406, y: -0.0075424495, z: -0.017604038}
-        outSlope: {x: -0.0046691406, y: -0.0075424495, z: -0.017604038}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 0.09025272, y: 0.23909914, z: -0.73606205}
-        inSlope: {x: -0.004442094, y: 0.007498397, z: 0.013248523}
-        outSlope: {x: -0.004442094, y: 0.007498397, z: 0.013248523}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 0.08880027, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: -0.001675908, y: 0.016616458, z: 0.0035329512}
-        outSlope: {x: -0.001675908, y: 0.016616458, z: 0.0035329512}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (1)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 0.15320028, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: 0.00062054204, y: 0.0001280827, z: 0.0013739832}
-        outSlope: {x: 0.00062054204, y: 0.0001280827, z: 0.0013739832}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 0.15384151, y: 0.25363243, z: -0.7315804}
-        inSlope: {x: 0.00014367382, y: -0.00024010244, z: -0.0006392739}
-        outSlope: {x: 0.00014367382, y: -0.00024010244, z: -0.0006392739}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 0.15346944, y: 0.25295317, z: -0.73454237}
-        inSlope: {x: -0.00032033943, y: -0.00034572434, z: -0.0008875668}
-        outSlope: {x: -0.00032033943, y: -0.00034572434, z: -0.0008875668}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 0.15310559, y: 0.25285476, z: -0.7335041}
-        inSlope: {x: -0.00009910941, y: 0.00033071358, z: 0.0007294433}
-        outSlope: {x: -0.00009910941, y: 0.00033071358, z: 0.0007294433}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 0.15320028, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: 0.000109265646, y: 0.0007445882, z: 0.00058148924}
-        outSlope: {x: 0.000109265646, y: 0.0007445882, z: 0.00058148924}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (2)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 0.21670033, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: -0.010565799, y: -0.0021792804, z: -0.03040408}
-        outSlope: {x: -0.010565799, y: -0.0021792804, z: -0.03040408}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 0.20578234, y: 0.25124815, z: -0.7644177}
-        inSlope: {x: -0.0045624394, y: 0.0049438886, z: 0.010841753}
-        outSlope: {x: -0.0045624394, y: 0.0049438886, z: 0.010841753}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 0.20739137, y: 0.26472303, z: -0.70625323}
-        inSlope: {x: 0.003967967, y: 0.006748923, z: 0.015593225}
-        outSlope: {x: 0.003967967, y: 0.006748923, z: 0.015593225}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 0.21507713, y: 0.26641613, z: -0.73098624}
-        inSlope: {x: 0.004183968, y: -0.0067361784, z: -0.011612446}
-        outSlope: {x: 0.004183968, y: -0.0067361784, z: -0.011612446}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 0.21670033, y: 0.25350007, z: -0.73300016}
-        inSlope: {x: 0.0018729215, y: -0.014903146, z: -0.0023237562}
-        outSlope: {x: 0.0018729215, y: -0.014903146, z: -0.0023237562}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (3)
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 0.28429976, y: 0.25350007, z: -0.7330052}
-        inSlope: {x: -0.022477316, y: -0.0046370924, z: -0.064232334}
-        outSlope: {x: -0.022477316, y: -0.0046370924, z: -0.064232334}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 1.0333333
-        value: {x: 0.2610732, y: 0.24870841, z: -0.79937863}
-        inSlope: {x: -0.009571378, y: 0.010462799, z: 0.023065832}
-        outSlope: {x: -0.009571378, y: 0.010462799, z: 0.023065832}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 2.15
-        value: {x: 0.2647968, y: 0.27725342, z: -0.6761388}
-        inSlope: {x: 0.00853468, y: 0.014302473, z: 0.03313998}
-        outSlope: {x: 0.00853468, y: 0.014302473, z: 0.03313998}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 3.3333333
-        value: {x: 0.28104964, y: 0.28085342, z: -0.7283049}
-        inSlope: {x: 0.008742471, y: -0.014259651, z: -0.024753733}
-        outSlope: {x: 0.008742471, y: -0.014259651, z: -0.024753733}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      - serializedVersion: 3
-        time: 4.2
-        value: {x: 0.28429976, y: 0.25350007, z: -0.7330052}
-        inSlope: {x: 0.0037501412, y: -0.031561557, z: -0.005423427}
-        outSlope: {x: 0.0037501412, y: -0.031561557, z: -0.005423427}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    path: Spot Light (4)
+    path: 
   m_ScaleCurves: []
   m_FloatCurves: []
   m_PPtrCurves: []
@@ -546,7 +112,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1001607455
+      path: 0
       attribute: 1
       script: {fileID: 0}
       typeID: 4
@@ -555,79 +121,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 673247157
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 51231862
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 437685559
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1431772144
-      attribute: 1
-      script: {fileID: 0}
-      typeID: 4
-      customType: 0
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1001607455
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 673247157
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 51231862
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 437685559
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
-    - serializedVersion: 2
-      path: 1431772144
+      path: 0
       attribute: 4
       script: {fileID: 0}
       typeID: 4
@@ -641,7 +135,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 4.2
+    m_StopTime: 3.0166667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -663,45 +157,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.028099978
-        inSlope: 0.022467941
-        outSlope: 0.022467941
+        value: 0
+        inSlope: 0.4371152
+        outSlope: 0.4371152
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: 0.05131685
-        inSlope: 0.009569363
-        outSlope: 0.009569363
+        time: 1
+        value: 0.4371152
+        inSlope: -0.16629127
+        outSlope: -0.16629127
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: 0.047599226
-        inSlope: -0.008532011
-        outSlope: -0.008532011
+        time: 2.0166667
+        value: -0.3454108
+        inSlope: -0.21214347
+        outSlope: -0.21214347
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: 0.031346373
-        inSlope: -0.0087403245
-        outSlope: -0.0087403245
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.028099978
-        inSlope: -0.0037458409
-        outSlope: -0.0037458409
+        time: 3.0166667
+        value: 0
+        inSlope: 0.3454108
+        outSlope: 0.3454108
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -710,7 +195,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.x
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -720,45 +205,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.2519
-        inSlope: 0.0046356646
-        outSlope: 0.0046356646
+        value: 0
+        inSlope: 0.08239937
+        outSlope: 0.08239937
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: 0.25669017
-        inSlope: -0.01046476
-        outSlope: -0.01046476
+        time: 1
+        value: 0.08239937
+        inSlope: 0.009075642
+        outSlope: 0.009075642
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: 0.22814238
-        inSlope: -0.014304116
-        outSlope: -0.014304116
+        time: 2.0166667
+        value: 0.01708049
+        inSlope: -0.040664285
+        outSlope: -0.040664285
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: 0.22454144
-        inSlope: 0.014262255
-        outSlope: 0.014262255
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.2519
-        inSlope: 0.03156756
-        outSlope: 0.03156756
+        time: 3.0166667
+        value: 0
+        inSlope: -0.01708049
+        outSlope: -0.01708049
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -767,7 +243,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.y
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -777,45 +253,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -0.73340017
-        inSlope: 0.064223215
-        outSlope: 0.064223215
+        value: 0
+        inSlope: -0.03700419
+        outSlope: -0.03700419
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: -0.6670362
-        inSlope: -0.02307944
-        outSlope: -0.02307944
+        time: 1
+        value: -0.03700419
+        inSlope: -0.07582789
+        outSlope: -0.07582789
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: -0.7902962
-        inSlope: -0.033164717
-        outSlope: -0.033164717
+        time: 2.0166667
+        value: -0.15356663
+        inSlope: 0.019457523
+        outSlope: 0.019457523
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: -0.7381672
-        inSlope: 0.024776556
-        outSlope: 0.024776556
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -0.73340017
-        inSlope: 0.005500455
-        outSlope: 0.005500455
+        time: 3.0166667
+        value: 0
+        inSlope: 0.15356663
+        outSlope: 0.15356663
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -824,7 +291,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalPosition.z
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -834,729 +301,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 0.08880027
-        inSlope: 0.011962018
-        outSlope: 0.011962018
+        value: 0
+        inSlope: -5.201
+        outSlope: -5.201
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: 0.10116102
-        inSlope: 0.0049160086
-        outSlope: 0.0049160086
+        time: 1
+        value: -5.201
+        inSlope: -0.1641066
+        outSlope: -0.1641066
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: 0.09878252
-        inSlope: -0.0046691406
-        outSlope: -0.0046691406
+        time: 2.0166667
+        value: -0.247
+        inSlope: 2.5598936
+        outSlope: 2.5598936
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: 0.09025272
-        inSlope: -0.004442094
-        outSlope: -0.004442094
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.08880027
-        inSlope: -0.001675908
-        outSlope: -0.001675908
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.25350007
-        inSlope: 0.002469536
-        outSlope: 0.002469536
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.25605193
-        inSlope: -0.0054978495
-        outSlope: -0.0054978495
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.24101575
-        inSlope: -0.0075424495
-        outSlope: -0.0075424495
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.23909914
-        inSlope: 0.007498397
-        outSlope: 0.007498397
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.25350007
-        inSlope: 0.016616458
-        outSlope: 0.016616458
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.73300016
-        inSlope: 0.033602774
-        outSlope: 0.033602774
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -0.6982773
-        inSlope: -0.012284698
-        outSlope: -0.012284698
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -0.7632362
-        inSlope: -0.017604038
-        outSlope: -0.017604038
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -0.73606205
-        inSlope: 0.013248523
-        outSlope: 0.013248523
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -0.73300016
-        inSlope: 0.0035329512
-        outSlope: 0.0035329512
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.15320028
-        inSlope: 0.00062054204
-        outSlope: 0.00062054204
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.15384151
-        inSlope: 0.00014367382
-        outSlope: 0.00014367382
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.15346944
-        inSlope: -0.00032033943
-        outSlope: -0.00032033943
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.15310559
-        inSlope: -0.00009910941
-        outSlope: -0.00009910941
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.15320028
-        inSlope: 0.000109265646
-        outSlope: 0.000109265646
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.25350007
-        inSlope: 0.0001280827
-        outSlope: 0.0001280827
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.25363243
-        inSlope: -0.00024010244
-        outSlope: -0.00024010244
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.25295317
-        inSlope: -0.00034572434
-        outSlope: -0.00034572434
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.25285476
-        inSlope: 0.00033071358
-        outSlope: 0.00033071358
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.25350007
-        inSlope: 0.0007445882
-        outSlope: 0.0007445882
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.73300016
-        inSlope: 0.0013739832
-        outSlope: 0.0013739832
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -0.7315804
-        inSlope: -0.0006392739
-        outSlope: -0.0006392739
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -0.73454237
-        inSlope: -0.0008875668
-        outSlope: -0.0008875668
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -0.7335041
-        inSlope: 0.0007294433
-        outSlope: 0.0007294433
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -0.73300016
-        inSlope: 0.00058148924
-        outSlope: 0.00058148924
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.21670033
-        inSlope: -0.010565799
-        outSlope: -0.010565799
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.20578234
-        inSlope: -0.0045624394
-        outSlope: -0.0045624394
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.20739137
-        inSlope: 0.003967967
-        outSlope: 0.003967967
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.21507713
-        inSlope: 0.004183968
-        outSlope: 0.004183968
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.21670033
-        inSlope: 0.0018729215
-        outSlope: 0.0018729215
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.25350007
-        inSlope: -0.0021792804
-        outSlope: -0.0021792804
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.25124815
-        inSlope: 0.0049438886
-        outSlope: 0.0049438886
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.26472303
-        inSlope: 0.006748923
-        outSlope: 0.006748923
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.26641613
-        inSlope: -0.0067361784
-        outSlope: -0.0067361784
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.25350007
-        inSlope: -0.014903146
-        outSlope: -0.014903146
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.73300016
-        inSlope: -0.03040408
-        outSlope: -0.03040408
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -0.7644177
-        inSlope: 0.010841753
-        outSlope: 0.010841753
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -0.70625323
-        inSlope: 0.015593225
-        outSlope: 0.015593225
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -0.73098624
-        inSlope: -0.011612446
-        outSlope: -0.011612446
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -0.73300016
-        inSlope: -0.0023237562
-        outSlope: -0.0023237562
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.28429976
-        inSlope: -0.022477316
-        outSlope: -0.022477316
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.2610732
-        inSlope: -0.009571378
-        outSlope: -0.009571378
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.2647968
-        inSlope: 0.00853468
-        outSlope: 0.00853468
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.28104964
-        inSlope: 0.008742471
-        outSlope: 0.008742471
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.28429976
-        inSlope: 0.0037501412
-        outSlope: 0.0037501412
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.x
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0.25350007
-        inSlope: -0.0046370924
-        outSlope: -0.0046370924
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 0.24870841
-        inSlope: 0.010462799
-        outSlope: 0.010462799
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 0.27725342
-        inSlope: 0.014302473
-        outSlope: 0.014302473
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.28085342
-        inSlope: -0.014259651
-        outSlope: -0.014259651
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 0.25350007
-        inSlope: -0.031561557
-        outSlope: -0.031561557
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.y
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -0.7330052
-        inSlope: -0.064232334
-        outSlope: -0.064232334
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -0.79937863
-        inSlope: 0.023065832
-        outSlope: 0.023065832
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -0.6761388
-        inSlope: 0.03313998
-        outSlope: 0.03313998
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -0.7283049
-        inSlope: -0.024753733
-        outSlope: -0.024753733
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -0.7330052
-        inSlope: -0.005423427
-        outSlope: -0.005423427
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalPosition.z
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 45.758
-        inSlope: -6.384194
-        outSlope: -6.384194
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 39.161
-        inSlope: -5.1456785
-        outSlope: -5.1456785
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 34.798
-        inSlope: -9.360625
-        outSlope: -9.360625
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 17.268
-        inSlope: 9.029497
-        outSlope: 9.029497
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 45.758
-        inSlope: 32.87308
-        outSlope: 32.87308
+        time: 3.0166667
+        value: 0
+        inSlope: 0.247
+        outSlope: 0.247
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -1565,7 +339,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -1575,45 +349,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 10.355
-        inSlope: 31.204838
-        outSlope: 31.204838
+        value: 0
+        inSlope: 31.334
+        outSlope: 31.334
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: 42.6
-        inSlope: -9.546982
-        outSlope: -9.546982
+        time: 1
+        value: 31.334
+        inSlope: -11.853329
+        outSlope: -11.853329
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: -13.567
-        inSlope: -15.575596
-        outSlope: -15.575596
+        time: 2.0166667
+        value: -24.624
+        inSlope: -15.208328
+        outSlope: -15.208328
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: 9.091
-        inSlope: 10.303036
-        outSlope: 10.303036
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 10.355
-        inSlope: 1.4584616
-        outSlope: 1.4584616
+        time: 3.0166667
+        value: 0
+        inSlope: 24.624
+        outSlope: 24.624
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -1622,7 +387,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -1632,45 +397,36 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: -16.577
-        inSlope: -4.2135487
-        outSlope: -4.2135487
+        value: 0
+        inSlope: -3.159
+        outSlope: -3.159
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 1.0333333
-        value: -20.931
-        inSlope: 4.7354636
-        outSlope: 4.7354636
+        time: 1
+        value: -3.159
+        inSlope: -2.6998277
+        outSlope: -2.6998277
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 2.15
-        value: -5.65
-        inSlope: 5.561111
-        outSlope: 5.561111
+        time: 2.0166667
+        value: -5.437
+        inSlope: 1.5981721
+        outSlope: 1.5981721
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 3.3333333
-        value: -8.682
-        inSlope: -5.835935
-        outSlope: -5.835935
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -16.577
-        inSlope: -9.109616
-        outSlope: -9.109616
+        time: 3.0166667
+        value: 0
+        inSlope: 5.437
+        outSlope: 5.437
         tangentMode: 34
         weightedMode: 0
         inWeight: 0.33333334
@@ -1679,691 +435,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Spot Light
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 45.758
-        inSlope: -6.384194
-        outSlope: -6.384194
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 39.161
-        inSlope: -5.1456785
-        outSlope: -5.1456785
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 34.798
-        inSlope: -9.360625
-        outSlope: -9.360625
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 17.268
-        inSlope: 9.029497
-        outSlope: 9.029497
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 45.758
-        inSlope: 32.87308
-        outSlope: 32.87308
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 10.355
-        inSlope: 31.204838
-        outSlope: 31.204838
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 42.6
-        inSlope: -9.546982
-        outSlope: -9.546982
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -13.567
-        inSlope: -15.575596
-        outSlope: -15.575596
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 9.091
-        inSlope: 10.303036
-        outSlope: 10.303036
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 10.355
-        inSlope: 1.4584616
-        outSlope: 1.4584616
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -16.577
-        inSlope: -4.2135487
-        outSlope: -4.2135487
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -20.931
-        inSlope: 4.7354636
-        outSlope: 4.7354636
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -5.65
-        inSlope: 5.561111
-        outSlope: 5.561111
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -8.682
-        inSlope: -5.835935
-        outSlope: -5.835935
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -16.577
-        inSlope: -9.109616
-        outSlope: -9.109616
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 45.758
-        inSlope: -6.384194
-        outSlope: -6.384194
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 39.161
-        inSlope: -5.1456785
-        outSlope: -5.1456785
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 34.798
-        inSlope: -9.360625
-        outSlope: -9.360625
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 17.268
-        inSlope: 9.029497
-        outSlope: 9.029497
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 45.758
-        inSlope: 32.87308
-        outSlope: 32.87308
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 10.355
-        inSlope: 31.204838
-        outSlope: 31.204838
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 42.6
-        inSlope: -9.546982
-        outSlope: -9.546982
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -13.567
-        inSlope: -15.575596
-        outSlope: -15.575596
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 9.091
-        inSlope: 10.303036
-        outSlope: 10.303036
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 10.355
-        inSlope: 1.4584616
-        outSlope: 1.4584616
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -16.577
-        inSlope: -4.2135487
-        outSlope: -4.2135487
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -20.931
-        inSlope: 4.7354636
-        outSlope: 4.7354636
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -5.65
-        inSlope: 5.561111
-        outSlope: 5.561111
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -8.682
-        inSlope: -5.835935
-        outSlope: -5.835935
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -16.577
-        inSlope: -9.109616
-        outSlope: -9.109616
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 46.63
-        inSlope: -6.876777
-        outSlope: -6.876777
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 39.524
-        inSlope: -4.3571935
-        outSlope: -4.3571935
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 37.472
-        inSlope: -8.413313
-        outSlope: -8.413313
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 19.735
-        inSlope: 8.021841
-        outSlope: 8.021841
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 46.63
-        inSlope: 31.032698
-        outSlope: 31.032698
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -1.893
-        inSlope: 32.405807
-        outSlope: 32.405807
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 31.593
-        inSlope: -8.503214
-        outSlope: -8.503214
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -23.584
-        inSlope: -14.531891
-        outSlope: -14.531891
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 0.495
-        inSlope: 8.796535
-        outSlope: 8.796535
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -1.893
-        inSlope: -2.755385
-        outSlope: -2.755385
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -33.489
-        inSlope: -2.4096792
-        outSlope: -2.4096792
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -35.979
-        inSlope: 6.117846
-        outSlope: 6.117846
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -19.625
-        inSlope: 7.387756
-        outSlope: 7.387756
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -19.471
-        inSlope: -8.022237
-        outSlope: -8.022237
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -33.489
-        inSlope: -16.174614
-        outSlope: -16.174614
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 40.466
-        inSlope: -6.867098
-        outSlope: -6.867098
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 33.37
-        inSlope: -4.296384
-        outSlope: -4.296384
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: 31.443
-        inSlope: -8.35354
-        outSlope: -8.35354
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: 13.715
-        inSlope: 7.942565
-        outSlope: 7.942565
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: 40.466
-        inSlope: 30.86654
-        outSlope: 30.86654
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -1.709
-        inSlope: 32.7
-        outSlope: 32.7
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: 32.081
-        inSlope: -9.276714
-        outSlope: -9.276714
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -25.152
-        inSlope: -15.378544
-        outSlope: -15.378544
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -0.898
-        inSlope: 9.780286
-        outSlope: 9.780286
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -1.709
-        inSlope: -0.9357693
-        outSlope: -0.9357693
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 16
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: -33.222
-        inSlope: -2.2519352
-        outSlope: -2.2519352
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 1.0333333
-        value: -35.549
-        inSlope: 5.6688075
-        outSlope: 5.6688075
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 2.15
-        value: -20.374
-        inSlope: 7.065198
-        outSlope: 7.065198
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 3.3333333
-        value: -19.734
-        inSlope: -7.511117
-        outSlope: -7.511117
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 4.2
-        value: -33.222
-        inSlope: -15.56308
-        outSlope: -15.56308
-        tangentMode: 34
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Spot Light (4)
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 16
@@ -2375,8 +447,8 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Spot Light
+    attribute: m_LocalEulerAngles.x
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2388,19 +460,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Spot Light
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Spot Light
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -2412,142 +472,10 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Spot Light (2)
+    path: 
     classID: 4
     script: {fileID: 0}
     flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Spot Light (2)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Spot Light (1)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Spot Light (3)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Spot Light (4)
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  m_HasGenericRootTransform: 0
+  m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
   m_Events: []

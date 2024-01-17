@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6964058622104372848
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,9 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: color 3
+  m_Name: color 14
   m_Shader: {fileID: -6465566751694194690, guid: 5e64ded09019ef14e802d187402d5d79, type: 3}
-  m_Parent: {fileID: 2100000, guid: c1ff3ca64a9d4c44e8ea6c45cd0a071d, type: 2}
+  m_Parent: {fileID: 2100000, guid: fd33fef67c7cd694d977e2fb7a640a04, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -25,22 +38,9 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Max: 0.95
-    - _Min: 0.26
+    - _Max: 1.25
+    - _Min: 0.18
     - _Shades: -0.4
     m_Colors:
-    - _Color: {r: 0, g: 0.06311035, b: 1, a: 1}
+    - _Color: {r: 1, g: 0.0019782386, b: 0, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &8029172424083069672
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 7
